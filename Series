@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1,0101 El himno nacional
-#EXTGRP:BLACK MIRROR
-https://cloud-a22202-80-239.streamplay.to/dash/h75fvnxcflekalhulpltam6qdzqxclcug4cjcsgxnrs3uqhifapjmbujihqq/init-a1-x3.mp4
+#EXTINF:-1,0101 
+#EXTGRP:LA PESTE
+http://188.165.253.138:8777/pvap5mt2oznv3h2yug7nrnimo6bjwligyqnyj75ximmrkiyx3zlcuiiypata/v.mp4
 
 
 #EXTINF:-1,0101 Deja que mi grito llegue a ti
